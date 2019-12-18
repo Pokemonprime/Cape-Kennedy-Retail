@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+<br>
+<h1> Former Gray Drugs </h2>
+<br>
+<table style="width:100%">
+<tr>
+<th> City </th>
+<th> Address </th>
+<th> Notes </th>
+</tr>
+<tr>
+<td> Carol City </td>
+<td> 4666 N Roosevelt Boulevard </td>
+<td> </td>
+</tr>
+<tr>
+<td> Coral Gables </td>
+<td> 1200 S Dixie Highway </td>
+</tr>
+<tr>
+<td> Davie </td>
+<td> 3906 SW 64th Avenue </td>
+</tr>
+<tr>
+<td> Deerfield Beach </td>
+
+
+</table>
+</body>
+</html>
