@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Former Baskin-Robbins </title>
+</head>
+<body>
+<br>
+<h1> Baskin-Robbins </h1>
+<br>
+<tr>
+<th> City </th>
+<th> Address </th>
+<th> Notes </th>
+</tr>
+<tr>
+<td> Sanford </td>
+<td> 3645 South Orlando Drive </td>
+<td> </td>
+</tr>
+<tr>
+<td> Pensacola </td>
+<td> Cordova Mall </td>
+<td> </td>
+</tr>
+<tr>
+<td> Fort Lauderdale </td>
+<td> 1744 E Commercial Boulevard </td>
+<td> to Printing/Ice Cream Club, to Minuteman Printing, to Boost Mobile </td>
+</tr>
+<tr>
+<td> Milton </td>
+<td> 4795 Highway 90 </td>
+<td> to Lucky Nails, Vacant </td>
+</tr>
+<tr>
+<td> Delray Beach </td>
+<td> 7231 W Atlantic Avenue </td>
+<td> to Dunkin Donuts </td>
+</tr>
+<tr>
+<td> 	
+</body>
+</html>
