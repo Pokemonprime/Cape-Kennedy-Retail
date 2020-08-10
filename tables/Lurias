@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Luria's locations </title>
+</head>
+<body>
+<br>
+<h1> Luria's </h1>
+<br>
+<tr>
+<th> City </th>
+<th> Address </th>
+<th> Notes </th>
+</tr>
+<tr>
+<td> Cutler Bay </td>
+<td> 20331 S Dixie Highway </td>
+<td> to Kmart, Vacant </td>
+</tr>
+<tr>
+<td> Miami (Kendall) </td>
+<td> 13797 SW 88th Street </td>
+<td> Subdivided </td>
+</tr>
+<tr>
+<td> Miami </td>
+<td> 8603 SW 40th Street </td>
+<td></td>
+</tr>
+<tr>
+<td> Miami </td>
+<td> 980 SW 1st Street </td>
+<td> to Tabacalera El Credito S.A., to EPC Cigar Co. </td>
+</tr>
+<tr>
+<td> Hileah </td>
+<td> 775 W 49th Street </td>
+<td> to Navarro Discount Pharmacy/Party City </td>
+</tr>
+<tr> 
+<td> North Miami </td>
+<td> 14600 Biscayne Boulevard </td>
+<td> </td>
+</tr>
+<tr>
+<td> Hollywood </td>
+<td> 6411 Taft Street </td>
+<td> to Lucanus </td>
+</tr>
+<tr>
+<td> Ft Lauderdale </td>
+<td> 2000 N Federal Highway </td>
+<td> to Whole Foods Market </td>
+</tr>
+<tr>
+<td> Tamarac </td>
+<td> 4021 W Commercial Boulevard </td>
+<td> to Old Time Pottery </td>
+</tr>
+<tr>
+<td> Pompano Beach </td>
+<td> 3459 N Federal Highway </td>
+<td> to Bed Bath & Beyond </td>
+</tr>
+<tr>
+<td> West Palm Beach </td>
+<td> 1276 N Military Trail </td>
+<td> Subdivided </td>
+</tr>
+<tr>
+<td> Lake Worth </td>
+<td> 6488 Lake Worth Road </td>
+<td> to Planet Fitness </td>
+</tr>
+<tr>
+<td> Pine Hills </td>
+<td> 5370 Silver Star Road </td>
+<td> to New &
